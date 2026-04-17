@@ -10,10 +10,10 @@ Interactive map showing where couples live who book each of the six BDEV wedding
 
 **Prospective venues:** Waterworks House (Arnold, Nottingham) and The West Mill (Darley Abbey, Derby)
 
-[Open the map](https://marialarcombe.github.io/Maps-V2/bdev_venue_reach_map.html)
+<a href="https://marialarcombe.github.io/Maps-V2/bdev_venue_reach_map.html" target="_blank">Open the map</a>
 
 ## WHEN Were Dates Booked
 
 Interactive calendar visualization showing when wedding dates were booked for each BDEV venue. Colour-coded by sale year with venue-specific filtering and year-based analysis.
 
-[Open the calendar](https://marialarcombe.github.io/Maps-V2/WHEN_were_dates_booked.html)
+<a href="https://marialarcombe.github.io/Maps-V2/WHEN_were_dates_booked.html" target="_blank">Open the calendar</a>
