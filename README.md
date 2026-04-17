@@ -16,4 +16,4 @@ Interactive map showing where couples live who book each of the six BDEV wedding
 
 Interactive calendar visualization showing when wedding dates were booked for each BDEV venue. Colour-coded by sale year with venue-specific filtering and year-based analysis.
 
-[Open the calendar](https://marialarcombe.github.io/Maps-V2/when_were_dates_booked.html)
+[Open the calendar](https://marialarcombe.github.io/Maps-V2/WHEN_were_dates_booked.html)
